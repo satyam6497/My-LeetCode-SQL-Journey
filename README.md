@@ -38,8 +38,3 @@ Each solution is my own attempt at solving the problem efficiently and readably.
  * LinkedIn: https://www.linkedin.com/in/satyam-mishra-dec17/
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
-
-* **LinkedIn:** [your-linkedin-url]
-* **Personal Website:** [your-portfolio-url]
-
-**Pro Tip:** Keep your `README.md` updated every time you add a new solution. A well-maintained repository shows consistency and dedication! Good luck!
