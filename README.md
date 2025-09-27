@@ -8,10 +8,10 @@ Each solution is my own attempt at solving the problem efficiently and readably.
 
  📊 My Progress
 
-- Total Solved: 5
+- Total Solved: 9
 - Easy: 5
-- Medium: 0
-- Hard: 0
+- Medium: 3
+- Hard: 1
 
 ------
 
