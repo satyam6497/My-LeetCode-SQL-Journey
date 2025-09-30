@@ -1,0 +1,5 @@
+select customer_number
+from Orders
+Group by customer_number
+order by Count(order_number) Desc
+limit 1;
