@@ -8,8 +8,8 @@ Each solution is my own attempt at solving the problem efficiently and readably.
 
  📊 My Progress
 
-- Total Solved: 46
-- Easy: 23
+- Total Solved: 49
+- Easy: 26
 - Medium: 20
 - Hard: 3
 
